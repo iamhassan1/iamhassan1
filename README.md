@@ -14,8 +14,8 @@ Hi, I'm **Muhammad Hasan Sajjad**, a dedicated **Unity Game Developer** speciali
 
 ## 🛠️ Skills
 - **Game Development**: Unity, C#, 3D/2D Game Design, UI/UX, Physics, Animation
-- **Blockchain**: Solidity, Web3.js, Ethereum, NFT Integration, Smart Contracts
-- **Tools**: Git, Visual Studio, Blender, Photoshop
+- **Blockchain**: Solidity, Web3.js, Ethereum, NFT Integration, Smart Contracts, Rust
+- **Tools**: Git, Visual Studio, 
 - **Other**: Agile Development, Problem-Solving, Cross-Platform Development
 
 
