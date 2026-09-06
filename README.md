@@ -1,6 +1,6 @@
-# 🚀 Muhammad Hasan Sajjad | Game & Blockchain Developer
+# 🚀 Muhammad Hassan Sajjad | Game & Blockchain Developer
 
-Hi, I'm **Muhammad Hasan Sajjad**, a dedicated **Unity Game Developer** specializing in **Blockchain Integration**. This GitHub is my portfolio, showcasing projects that merge immersive gaming experiences with innovative blockchain solutions. 🎮⛓️
+Hi, I'm **Muhammad Hassan Sajjad**, a dedicated **Unity Game Developer** specializing in **Blockchain Integration**. This GitHub is my portfolio, showcasing projects that merge immersive gaming experiences with innovative blockchain solutions. 🎮⛓️
 
 ---
 
